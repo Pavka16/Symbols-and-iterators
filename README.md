@@ -1,4 +1,6 @@
 ## Символы и итераторы
+[![Build status](https://ci.appveyor.com/api/projects/status/xtyewwa30t7r7yow?svg=true)](https://ci.appveyor.com/project/Pavka16/symbols-and-iterators)
+---
 
 ### Легенда
 
